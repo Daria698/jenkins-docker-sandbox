@@ -27,7 +27,8 @@ jenkins> docker-compose up --build
 
 ##################  Alternative:
 
-# Build image and tag it as docker-nice-sandbox with version 01
+# Add new comment
+#
 
 > docker build -t docker-nice-sandbox:01 .
  
